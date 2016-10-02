@@ -1,0 +1,7 @@
+canvas {
+  border: 5px dotted  grey;
+  //background-image:url("https://www.ufrst.univ-evry.fr/images/LogoUEVE.jpg");
+  background-color:black;
+  background-size: 495px 450px;
+  position : absolute;
+}
